@@ -1,1 +1,1 @@
-[https://Victoria-Maximenko.github.io/rsschool-2019Q1-cv/cv](https://Victoria-Maximenko.github.io/rsschool-2019Q1-cv/cv)
+[https://Victoria-Maximenko.github.io/rsschool-2019Q1-cv/cv](https://Victoria-Maximenko.github.io/rsschool-2019Q1-cv/cv.md)
