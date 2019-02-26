@@ -10,7 +10,7 @@ I’m last year student of economic university, studding the World Economy at In
 ###### Skills:  
 HTML5, CSS3, Bootstrap, JS basis, MS Excel, MS Word, Adaptive Web Design  
 
-######Latest code examples:  
+###### Latest code examples:  
 https://codepen.io/anon/pen/VgrmYd?editors=1010  
 https://codepen.io/tori131/pen/mvLboL  
 https://codepen.io/anon/pen/OdYPVJ?editors=1010  
